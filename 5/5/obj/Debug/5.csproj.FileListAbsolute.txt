@@ -1,0 +1,11 @@
+E:\УП.01.01\5\5\bin\Debug\5.exe.config
+E:\УП.01.01\5\5\bin\Debug\5.exe
+E:\УП.01.01\5\5\bin\Debug\5.pdb
+E:\УП.01.01\5\5\obj\Debug\5.csprojAssemblyReference.cache
+E:\УП.01.01\5\5\obj\Debug\_5.Form1.resources
+E:\УП.01.01\5\5\obj\Debug\_5.Properties.Resources.resources
+E:\УП.01.01\5\5\obj\Debug\5.csproj.GenerateResource.cache
+E:\УП.01.01\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+E:\УП.01.01\5\5\obj\Debug\5.exe
+E:\УП.01.01\5\5\obj\Debug\5.pdb
+E:\УП.01.01\5\5\bin\Debug\5.xml
